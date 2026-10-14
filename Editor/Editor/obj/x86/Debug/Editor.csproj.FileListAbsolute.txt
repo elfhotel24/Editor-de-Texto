@@ -26,3 +26,15 @@ F:\TCC - Editor\Editor\Editor\obj\x86\Debug\Editor.pdb
 F:\TCC - Editor\Editor\Editor\bin\Debug\Editor.exe
 F:\TCC - Editor\Editor\Editor\bin\Debug\Editor.pdb
 D:\TCC - Editor\Editor\Editor\obj\x86\Debug\Editor.csproj.ResolveComReference.cache
+C:\Users\USER\OneDrive\Documentos\GitHub\Editor-De-Texto-C-Sharp-\Editor\Editor\bin\Debug\Editor.exe.config
+C:\Users\USER\OneDrive\Documentos\GitHub\Editor-De-Texto-C-Sharp-\Editor\Editor\bin\Debug\Editor.exe
+C:\Users\USER\OneDrive\Documentos\GitHub\Editor-De-Texto-C-Sharp-\Editor\Editor\bin\Debug\Editor.pdb
+C:\Users\USER\OneDrive\Documentos\GitHub\Editor-De-Texto-C-Sharp-\Editor\Editor\obj\x86\Debug\Editor.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Documentos\GitHub\Editor-De-Texto-C-Sharp-\Editor\Editor\obj\x86\Debug\Interop.Office.dll
+C:\Users\USER\OneDrive\Documentos\GitHub\Editor-De-Texto-C-Sharp-\Editor\Editor\obj\x86\Debug\Editor.csproj.ResolveComReference.cache
+C:\Users\USER\OneDrive\Documentos\GitHub\Editor-De-Texto-C-Sharp-\Editor\Editor\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\USER\OneDrive\Documentos\GitHub\Editor-De-Texto-C-Sharp-\Editor\Editor\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\USER\OneDrive\Documentos\GitHub\Editor-De-Texto-C-Sharp-\Editor\Editor\obj\x86\Debug\Editor.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive\Documentos\GitHub\Editor-De-Texto-C-Sharp-\Editor\Editor\obj\x86\Debug\Editor.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documentos\GitHub\Editor-De-Texto-C-Sharp-\Editor\Editor\obj\x86\Debug\Editor.exe
+C:\Users\USER\OneDrive\Documentos\GitHub\Editor-De-Texto-C-Sharp-\Editor\Editor\obj\x86\Debug\Editor.pdb
